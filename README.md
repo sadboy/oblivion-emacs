@@ -7,5 +7,4 @@ Oblivion for Emacs is a direct port of the Oblivion theme for Gedit, developed b
 Installing
 ----
 
-    (require 'color-theme-oblivion)
-    (color-theme-oblivion)
+    (load-theme 'Oblivion)
